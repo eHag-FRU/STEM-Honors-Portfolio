@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\images",
+    "\\images\\projects"
   ],
-  "SelectedNode": "\\projects.html",
+  "SelectedNode": "\\images\\projects\\wlsBandDatabase.png",
   "PreviewInSolutionExplorer": false
 }

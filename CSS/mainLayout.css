@@ -50,16 +50,16 @@ nav ul {
 	display: inline;
 }
 
-	nav ul a {
+nav ul a {
 		text-decoration: none;
 		font-size: 20px;
 		margin: 2.5px;
 	}
 
-	/*Visited links in the navigation*/
-	nav a:visited {
-		color: white;  /*The color is white so then the color does not clash with the background*/
-	}
+/*Visited links in the navigation*/
+nav a:visited {
+	color: white;  /*The color is white so then the color does not clash with the background*/
+}
 
 /*Mouse hover over the navigation*/
 nav a:hover {

@@ -13,6 +13,11 @@
 	/ 100px  10px   770px    100px;
 	}
 
+/*Mouse hover over the navigation*/
+nav a:hover {
+	color: #333;
+}
+
 /*#signature {
 	width: 444px;
 	height: 50px;
